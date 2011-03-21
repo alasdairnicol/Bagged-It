@@ -1,0 +1,3 @@
+# ignore sqlite db and settings file
+settings.py
+baggedit.db
